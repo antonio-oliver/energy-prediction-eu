@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+pillow
+scikit-learn
+xgboost
+lightgbm
+statsmodels
+prophet
+datetime
+os
