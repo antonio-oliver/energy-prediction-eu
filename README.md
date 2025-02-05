@@ -1,6 +1,6 @@
 # ⚡ Energy Consumption Forecasting in Europe 🚀
 
-![Smart City Energy Prediction](/assets/A futuristic digital illustration of a smart city.webp)
+![Smart City Energy Prediction](assets/futuristic_digital_illustration_of_a_smart_city.png)
 
 
 ## 📌 Project Overview
